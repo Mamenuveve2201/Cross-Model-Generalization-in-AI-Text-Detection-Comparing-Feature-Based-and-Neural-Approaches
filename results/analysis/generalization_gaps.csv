@@ -1,0 +1,26 @@
+classifier,test_model,in_domain_f1,out_of_domain_f1,generalization_gap
+Logistic Regression,gpt4o,0.9992,1.0,-0.0008
+Logistic Regression,claude,0.9992,1.0,-0.0008
+Logistic Regression,gemini,0.9992,1.0,-0.0008
+Logistic Regression,llama,1.0,0.997,0.003
+Logistic Regression,qwen,0.9992,1.0,-0.0008
+Random Forest,gpt4o,0.9952,1.0,-0.0048
+Random Forest,claude,0.9952,1.0,-0.0048
+Random Forest,gemini,0.9952,1.0,-0.0048
+Random Forest,llama,0.9996,0.9822,0.0174
+Random Forest,qwen,0.9956,0.9985,-0.003
+XGBoost,gpt4o,0.9954,1.0,-0.0046
+XGBoost,claude,0.9954,1.0,-0.0046
+XGBoost,gemini,0.9957,0.999,-0.0033
+XGBoost,llama,0.9995,0.9837,0.0158
+XGBoost,qwen,0.9957,0.999,-0.0033
+RoBERTa-OpenAI,gpt4o,0.1982,0.1256,0.0726
+RoBERTa-OpenAI,claude,0.2296,0.0,0.2296
+RoBERTa-OpenAI,gemini,0.2296,0.0,0.2296
+RoBERTa-OpenAI,llama,0.0373,0.7693,-0.732
+RoBERTa-OpenAI,qwen,0.2237,0.0236,0.2001
+ChatGPT Detector,gpt4o,0.2127,0.0628,0.1499
+ChatGPT Detector,claude,0.2284,0.0,0.2284
+ChatGPT Detector,gemini,0.2284,0.0,0.2284
+ChatGPT Detector,llama,0.023,0.8216,-0.7986
+ChatGPT Detector,qwen,0.2211,0.0292,0.1919

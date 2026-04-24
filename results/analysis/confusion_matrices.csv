@@ -1,0 +1,16 @@
+classifier,test_model,TN,FP,FN,TP,precision,recall
+Logistic Regression,gpt4o,200,0,0,993,1.0,1.0
+Random Forest,gpt4o,200,0,0,993,1.0,1.0
+XGBoost,gpt4o,200,0,0,993,1.0,1.0
+Logistic Regression,claude,200,0,0,999,1.0,1.0
+Random Forest,claude,200,0,0,999,1.0,1.0
+XGBoost,claude,200,0,0,999,1.0,1.0
+Logistic Regression,gemini,200,0,0,993,1.0,1.0
+Random Forest,gemini,200,0,0,993,1.0,1.0
+XGBoost,gemini,198,2,0,993,0.998,1.0
+Logistic Regression,llama,200,0,6,994,1.0,0.994
+Random Forest,llama,200,0,35,965,1.0,0.965
+XGBoost,llama,200,0,32,968,1.0,0.968
+Logistic Regression,qwen,200,0,0,996,1.0,1.0
+Random Forest,qwen,200,0,3,993,1.0,0.997
+XGBoost,qwen,200,0,2,994,1.0,0.998
