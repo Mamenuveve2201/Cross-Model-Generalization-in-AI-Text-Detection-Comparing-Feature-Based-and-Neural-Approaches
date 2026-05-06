@@ -1,25 +1,3 @@
-\---
-
-title: AI Text Detector
-
-emoji: 🔍
-
-colorFrom: blue
-
-colorTo: green
-
-sdk: gradio
-
-sdk\_version: 4.44.0
-
-app\_file: app.py
-
-pinned: false
-
-\---
-
-
-
 \# AI Text Detector
 
 
