@@ -4,3 +4,17 @@ pandas
 numpy
 joblib
 xgboost
+transformers
+torch
+streamlit
+python-dotenv
+openai
+anthropic
+google-generativeai
+groq
+huggingface_hub
+textstat
+nltk
+spacy
+matplotlib
+seaborn
